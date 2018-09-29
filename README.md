@@ -14,4 +14,4 @@ There are functions description.
   - width = object.width / background.width
   - height = object.height / background.height
   
-  ![Image with label](https://github.com/liqisa/ImagesSupport/blob/master/example1.jpg "Image with label")
+  ![Image with label](https://github.com/liqisa/ImagesSupport/blob/master/example1.jpg/auto-orient/strip "Image with label")
