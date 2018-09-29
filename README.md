@@ -13,5 +13,9 @@ There are functions description.
   - center.y = (object_TopLeft_corner.y + object.height) / 2) / background.height
   - width = object.width / background.width
   - height = object.height / background.height
+  - For example, label file **1.txt** 
   
+    2 0.221 0.323 0.7655 0.7322  
+    3 0.111 0.972 0.3746 0.9462
+    
   ![Image with label](https://github.com/liqisa/ImagesSupport/blob/master/example1.jpg "Image with label")
