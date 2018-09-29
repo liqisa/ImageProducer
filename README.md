@@ -14,4 +14,4 @@ There are functions description.
   - width = object.width / background.width
   - height = object.height / background.height
   
-  ![示例图片1](./imgs/example2.jpg "示例图片1")
+  ![Image with label](https://github.com/liqisa/ImagesSupport/blob/master/example1.jpg "Image with label")
