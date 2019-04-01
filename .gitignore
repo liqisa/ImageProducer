@@ -1,0 +1,8 @@
+old/
+x64/
+ipch/
+*.sdf
+*.opensdf
+*.exp
+*.pdb
+*.jpg

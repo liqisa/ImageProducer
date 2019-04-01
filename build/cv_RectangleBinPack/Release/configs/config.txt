@@ -1,0 +1,3 @@
+SRC_PATH:..\Release\data\
+DST_PATH:..\Release\saves\
+BRIGHTNESS:1.0
